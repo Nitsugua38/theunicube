@@ -1,0 +1,43 @@
+{
+    "music.game.zelda": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "music/lostwoods",
+          "stream": true
+        },
+        {
+            "name": "music/cocorico",
+            "stream": true
+        },
+        {
+            "name": "music/kokiri",
+            "stream": true
+          },
+          {
+            "name": "music/main",
+            "stream": true
+          },
+          {
+            "name": "music/piaf",
+            "stream": true
+          },
+          {
+            "name": "music/zora",
+            "stream": true
+          },
+          {
+            "name": "music/field",
+            "stream": true
+          },
+          {
+            "name": "music/gerudo",
+            "stream": true
+          },
+        {
+          "name": "music/goron",
+          "stream": true
+        }
+      ]
+    }
+  }
